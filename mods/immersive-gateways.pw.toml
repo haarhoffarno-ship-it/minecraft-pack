@@ -1,0 +1,13 @@
+name = "Immersive Gateways"
+filename = "immersive_gateways-forge-0.0.6+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3hZmBMYA/versions/hf0mJKUT/immersive_gateways-forge-0.0.6%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "2d7d6e07079c276cbf27e71377ddb57edb5930e42da54ec40901fa1ec85d3eb7ed9281df38b11984dc94f9f0b817171b5af23c1dcbd1aeffa34d67a547f4a905"
+
+[update]
+[update.modrinth]
+mod-id = "3hZmBMYA"
+version = "hf0mJKUT"

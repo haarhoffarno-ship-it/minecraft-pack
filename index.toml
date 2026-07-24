@@ -1,6 +1,31 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/artistry-draw.pw.toml"
+hash = "f112e77d92e1ad77555f744dfb4069ee7ab8793dc553207133bb5630e3c679f3"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "ed4ccdb13c738b7f70df056df84a1b977fb256a53c2921610c565069c15912c7"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "ba71bdea2bb0e65eb53646a70e710a23bd711743aba3bc8ba1f2e1034f1cbc50"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
+metafile = true
+
+[[files]]
 file = "mods/compound-v-additions.pw.toml"
 hash = "8977ffb35d89982c5bcdcc37a05d062843217fd323b8d69066c7296fba092ecb"
 metafile = true
@@ -8,4 +33,104 @@ metafile = true
 [[files]]
 file = "mods/compound-v-advanced.pw.toml"
 hash = "19f2679871143ed671d9b27be31618500da0c4c050f65f593664c33b516f1aea"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "dbc04cf71baa724fea03c005d6d1513605aabd2089a0d167bbfe7d082f8da009"
+metafile = true
+
+[[files]]
+file = "mods/ensorcellation.pw.toml"
+hash = "9780912a21d843e262d6f137ae4e7f95ae21e059e82c8a449b5930c767b06dc4"
+metafile = true
+
+[[files]]
+file = "mods/fdlib.pw.toml"
+hash = "d9085cd7cbf2812c660aeb292b50a34453a798de0c4e9494a864f28b6cc0b609"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
+metafile = true
+
+[[files]]
+file = "mods/immersive-gateways.pw.toml"
+hash = "acdfb7bc358b783c9dd89ca24f6952e7b722962119d4644cecf1c77ff4e9c77d"
+metafile = true
+
+[[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
+
+[[files]]
+file = "mods/lazrs-lib.pw.toml"
+hash = "a370483a316bc06c0d44e48b66ebe61667d74c5452ffb4d75a9db248a4f17c03"
+metafile = true
+
+[[files]]
+file = "mods/majrusz-library.pw.toml"
+hash = "bc6a2458b8337e76c0636142242ef36f75ff13e65f977fdd81bb5cc823e5b360"
+metafile = true
+
+[[files]]
+file = "mods/orbital-railgun-reforged.pw.toml"
+hash = "3f80f8fc3479ab6b084d9abbe633947ea6229ce0ceca4bebdad2ef15a32fad1f"
+metafile = true
+
+[[files]]
+file = "mods/raids-enhanced.pw.toml"
+hash = "c75ec0f13a06a0bf503dab32ab604cc19e52a65238ccbe08575a74b83ab7b2a2"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6f7e41512ef7bbd820d7dda503ed671d4a35b59c0e8ae9679697501b6cd9d792"
+metafile = true
+
+[[files]]
+file = "mods/spooky-doors.pw.toml"
+hash = "2bead26ea526cfdecde216f7f3e4105cdc2dc29f8c50a54f2ca921040afd4375"
+metafile = true
+
+[[files]]
+file = "mods/weather-storms-tornadoes.pw.toml"
+hash = "8669708ff6478c72e7c5aa8c25c66e8178bbb316a684b86505fc986631eae6a3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "9fb6a1a06b18f2ce7b0811200339d997925cb39bde220fbaea4d5c8067376c12"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "58148fa22c72e0b0eac5e35fed0be9194ad59fe848298c1b61b565fa3158b2f4"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "a5af976bf45b8e0aaaa22bebb11504ef0687e90d2cff9d3fa3b648c0757c1446"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "18e0db08323413e9ad0c0959ca71d700f72a53dcd9fa5eb368cacc62c65168db"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "2eb3e909cc46e39d8b9e762f39c36b0579744118d619beb6a174d264951d6248"
 metafile = true
