@@ -1,0 +1,11 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/compound-v-additions.pw.toml"
+hash = "8977ffb35d89982c5bcdcc37a05d062843217fd323b8d69066c7296fba092ecb"
+metafile = true
+
+[[files]]
+file = "mods/compound-v-advanced.pw.toml"
+hash = "19f2679871143ed671d9b27be31618500da0c4c050f65f593664c33b516f1aea"
+metafile = true
