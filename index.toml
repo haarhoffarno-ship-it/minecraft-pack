@@ -178,6 +178,11 @@ hash = "2bead26ea526cfdecde216f7f3e4105cdc2dc29f8c50a54f2ca921040afd4375"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
+metafile = true
+
+[[files]]
 file = "mods/wandering-collector.pw.toml"
 hash = "79aae51020cf355536db50def20ed8adca94b8af948881e51bdd9c4a7502fe75"
 metafile = true
