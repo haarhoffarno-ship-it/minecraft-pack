@@ -1,6 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = "hosted/CasinoCraft_1.20.1_v25.jar"
+hash = "470aede4e24e074c29637fe92ae822aa0f71d787f62e7c352f4c647632ef6a16"
+
+[[files]]
+file = "hosted/Krypton-FNP-forge-1.20.1-0.2.28.2-1.20.1.jar"
+hash = "4a3ee9c1fceff4c480024c78b9b3626a50b6839ee977aa0ff9095242cc4fcf0e"
+
+[[files]]
+file = "hosted/VisualEnchantments.zip"
+hash = "871c1841a3bd6822d8765d5493124261115c1428b7125e4bfe43f1f97497c32e"
+
+[[files]]
+file = "hosted/copperagebackport-forge-1.20.1-0.1.4.jar"
+hash = "6da361b513d9d31768bc73334f721ce8e12c9a4284acda312eb3fb673b4449a3"
+
+[[files]]
+file = "hosted/gambling-2.1.jar"
+hash = "641032cdd51d47011b271247c1028abf4b77357036db086ddf78a5c15d1facfb"
+
+[[files]]
+file = "hosted/pml-1.0.4b-all.jar"
+hash = "7e3d7f09ea49ead2bf9cd319933ee55e5760410b565c12f3c9fbdafa3bb57627"
+
+[[files]]
+file = "hosted/spear-backport-forge-1.4.7-1.20.1.jar"
+hash = "54849b707ac5ecb121c57a22f3de43cf790c60b4f36d5763d1a5cbdb4de2ae9d"
+
+[[files]]
+file = "hosted/wandering_collector-1.20.1-1.0.jar"
+hash = "87b881c2a57215f868bc5c688177e808be2da9834d0ad6e6df92abacec7fc063"
+
+[[files]]
 file = "mods/artistry-draw.pw.toml"
 hash = "f112e77d92e1ad77555f744dfb4069ee7ab8793dc553207133bb5630e3c679f3"
 metafile = true
@@ -13,6 +45,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "ba71bdea2bb0e65eb53646a70e710a23bd711743aba3bc8ba1f2e1034f1cbc50"
+metafile = true
+
+[[files]]
+file = "mods/casinocraft.pw.toml"
+hash = "cdea873cf54953696c1a63d8fd4c2bcf21065970a875f154cf8cdb3e11b7126c"
 metafile = true
 
 [[files]]
@@ -36,6 +73,11 @@ hash = "19f2679871143ed671d9b27be31618500da0c4c050f65f593664c33b516f1aea"
 metafile = true
 
 [[files]]
+file = "mods/copperagebackport.pw.toml"
+hash = "4ecd2cda8fcbaf338ddd9d5d5661a7bf7019c1496013facaa894570af5a794be"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
@@ -56,6 +98,11 @@ hash = "d9085cd7cbf2812c660aeb292b50a34453a798de0c4e9494a864f28b6cc0b609"
 metafile = true
 
 [[files]]
+file = "mods/gambling.pw.toml"
+hash = "7c97cc0d52d13e2697bc9d8c6a88a48c96439e7911125df1dcb511ccd61b60ca"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
 metafile = true
@@ -66,8 +113,8 @@ hash = "acdfb7bc358b783c9dd89ca24f6952e7b722962119d4644cecf1c77ff4e9c77d"
 metafile = true
 
 [[files]]
-file = "mods/krypton-reforged.pw.toml"
-hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+file = "mods/krypton-fnp.pw.toml"
+hash = "1bc3a86ecfdb6e69b66abe62d1be9c1fde8400e64dd0971471f914640fa9eba4"
 metafile = true
 
 [[files]]
@@ -86,6 +133,11 @@ hash = "3f80f8fc3479ab6b084d9abbe633947ea6229ce0ceca4bebdad2ef15a32fad1f"
 metafile = true
 
 [[files]]
+file = "mods/pml.pw.toml"
+hash = "348a185cda3a7335fd7ab432eea25242103bbcb63d7cb0b2538261d70f09025a"
+metafile = true
+
+[[files]]
 file = "mods/raids-enhanced.pw.toml"
 hash = "c75ec0f13a06a0bf503dab32ab604cc19e52a65238ccbe08575a74b83ab7b2a2"
 metafile = true
@@ -101,8 +153,18 @@ hash = "6f7e41512ef7bbd820d7dda503ed671d4a35b59c0e8ae9679697501b6cd9d792"
 metafile = true
 
 [[files]]
+file = "mods/spear-backport.pw.toml"
+hash = "91c6009f1cadce5b69afde2f52af36817d09a084617ae205b335bd25b46e4d35"
+metafile = true
+
+[[files]]
 file = "mods/spooky-doors.pw.toml"
 hash = "2bead26ea526cfdecde216f7f3e4105cdc2dc29f8c50a54f2ca921040afd4375"
+metafile = true
+
+[[files]]
+file = "mods/wandering-collector.pw.toml"
+hash = "79aae51020cf355536db50def20ed8adca94b8af948881e51bdd9c4a7502fe75"
 metafile = true
 
 [[files]]
@@ -133,4 +195,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "2eb3e909cc46e39d8b9e762f39c36b0579744118d619beb6a174d264951d6248"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visualenchantments.pw.toml"
+hash = "e845fd7e1787c9fdbc61c70aeb8a9be34ae9c0af363e43ba2260c6c809a4c621"
 metafile = true

@@ -1,0 +1,8 @@
+name = "visualenchantments"
+filename = "VisualEnchantments.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/VisualEnchantments.zip"
+hash-format = "sha256"
+hash = "871c1841a3bd6822d8765d5493124261115c1428b7125e4bfe43f1f97497c32e"

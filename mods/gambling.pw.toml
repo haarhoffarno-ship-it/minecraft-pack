@@ -1,0 +1,8 @@
+name = "gambling"
+filename = "gambling-2.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/gambling-2.1.jar"
+hash-format = "sha256"
+hash = "641032cdd51d47011b271247c1028abf4b77357036db086ddf78a5c15d1facfb"
