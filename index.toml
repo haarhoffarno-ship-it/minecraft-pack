@@ -270,6 +270,11 @@ hash = "af372bc76bb2b94e21ff242bf5376b814ac665e6b9d4f13a6b492a3f60e3f91a"
 metafile = true
 
 [[files]]
+file = "mods/keybind-bundles.pw.toml"
+hash = "034352126ec9783e349efd773f33507f2c75ee0c6f1c9e53c4b38e46607dddcf"
+metafile = true
+
+[[files]]
 file = "mods/krypton-fnp.pw.toml"
 hash = "1bc3a86ecfdb6e69b66abe62d1be9c1fde8400e64dd0971471f914640fa9eba4"
 metafile = true
