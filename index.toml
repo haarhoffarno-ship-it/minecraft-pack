@@ -110,6 +110,11 @@ hash = "6e777e9c5758493d4e2e238806df02a40d06072cb8f3b448563dd62c461305b0"
 metafile = true
 
 [[files]]
+file = "mods/blur-forge.pw.toml"
+hash = "b452fc877ad16f35cf274f3945ec7eb46d645be3d76bd506858b263ce09332ce"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "ba71bdea2bb0e65eb53646a70e710a23bd711743aba3bc8ba1f2e1034f1cbc50"
 metafile = true
@@ -117,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/casinocraft.pw.toml"
 hash = "cdea873cf54953696c1a63d8fd4c2bcf21065970a875f154cf8cdb3e11b7126c"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "8e04e8135c2114f8d4b34dd637381a975ca86cd5bd24f34ee44ea1efc863ed81"
 metafile = true
 
 [[files]]
@@ -185,6 +195,11 @@ hash = "62c48c6ee57981e70dac819a58bd3ed9afdd96c2264661b0d941d1c46e1aaa12"
 metafile = true
 
 [[files]]
+file = "mods/culllessleaves-reforged.pw.toml"
+hash = "e38d187eefae043e892eb6ce932f5360718d02d71f9e8072e8ec38ec0667753b"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "55d77d596c2d805f28b47ea53725ccaa220d2857177cad3909e48d8c12b2a2cb"
 metafile = true
@@ -212,6 +227,16 @@ metafile = true
 [[files]]
 file = "mods/ensorcellation.pw.toml"
 hash = "9780912a21d843e262d6f137ae4e7f95ae21e059e82c8a449b5930c767b06dc4"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "5a8b971146de3aa8dc7e4b862a12c69e787189ca8252db119253efdcc99220fe"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "48d621f055c242082a47a9df3770b38000889b9e2b0e0d14c014ad1ae35968c4"
 metafile = true
 
 [[files]]
@@ -255,8 +280,18 @@ hash = "acdfb7bc358b783c9dd89ca24f6952e7b722962119d4644cecf1c77ff4e9c77d"
 metafile = true
 
 [[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "7cfc0e01f487f385b420af27e14dcdf1ce6f912c9ffecfa933fcdbb93c21e279"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "a2277a000bcab08a8e0939dae7c8ef3b1db5327e2fa7bd37919e4e2f1b3c174d"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "975422479efe8949c480f4aa0f78a10eef52328638ec6092e45dcf4eb6ed5b4e"
 metafile = true
 
 [[files]]
@@ -322,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "be310d4a4405c907522eb10a9c08e9a57c636c4d8315dbfb23bed59bfbbdd8ca"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "1477857fc4870fa03596e4a60fe2912ae74aa624002728c0a2fc747100a14892"
 metafile = true
 
 [[files]]
@@ -422,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "dec5a52502d55acaa36a0b3f21a533a43e392e5bfd7e9053bed347e8dba8b8bc"
 metafile = true
 
 [[files]]
