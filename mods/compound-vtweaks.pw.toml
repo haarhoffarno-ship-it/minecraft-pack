@@ -1,0 +1,13 @@
+name = "Compound VTweaks"
+filename = "compound_v_tweaks-5.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f3b5d445de8ab29dfb8009d8890d804e805ab59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8330718
+project-id = 1541572

@@ -155,8 +155,18 @@ hash = "19f2679871143ed671d9b27be31618500da0c4c050f65f593664c33b516f1aea"
 metafile = true
 
 [[files]]
+file = "mods/compound-v-gone-viral.pw.toml"
+hash = "67251d71ac0e2ea05ef10eaef8933506813e79f1afa66943b5ac3615a6b9dc89"
+metafile = true
+
+[[files]]
 file = "mods/compound-v.pw.toml"
 hash = "b1d9777676c148a676b0a1b7ff30663aa2fe5de668241b027caa229573480008"
+metafile = true
+
+[[files]]
+file = "mods/compound-vtweaks.pw.toml"
+hash = "74879ed64e597699e71ec2721cd7e673d9bc9d77192ea64ed465db41f8b76c18"
 metafile = true
 
 [[files]]
