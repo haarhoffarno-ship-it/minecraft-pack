@@ -401,11 +401,6 @@ hash = "be310d4a4405c907522eb10a9c08e9a57c636c4d8315dbfb23bed59bfbbdd8ca"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "1477857fc4870fa03596e4a60fe2912ae74aa624002728c0a2fc747100a14892"
-metafile = true
-
-[[files]]
 file = "mods/oculus.pw.toml"
 hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
