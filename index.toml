@@ -9,6 +9,10 @@ file = "hosted/Krypton-FNP-forge-1.20.1-0.2.28.2-1.20.1.jar"
 hash = "4a3ee9c1fceff4c480024c78b9b3626a50b6839ee977aa0ff9095242cc4fcf0e"
 
 [[files]]
+file = "hosted/Sounds-2.2.1+1.20.1+forge.jar"
+hash = "2fa22c59f967e963c97e7d4374a8713247402fa6c87654b3057a1c248217c7fd"
+
+[[files]]
 file = "hosted/Trials-Final.jar"
 hash = "b4c541d37d34f5171ae98fb1438c3b5e882f73681fbd6649b35220555702e05a"
 
@@ -21,6 +25,14 @@ file = "hosted/antixray-forge-1.4.6+1.20.1.jar"
 hash = "d8ced4101b1d90adfc4df223f9e28bbc0884b43fd83a0820ea8caab1e3918e23"
 
 [[files]]
+file = "hosted/cavedust-2.0.4-1.20.1-forge.jar"
+hash = "2fe10b7d7958a9f0977f57c84cddc7fb2501cc329e1459c7704156d207e3f0a7"
+
+[[files]]
+file = "hosted/citresewn-1.20.1-5.jar"
+hash = "b7fdf42262e9be2dd599386128ed0383d339dd4b585eea0f73f5bde5f0de5832"
+
+[[files]]
 file = "hosted/copperagebackport-forge-1.20.1-0.1.4.jar"
 hash = "6da361b513d9d31768bc73334f721ce8e12c9a4284acda312eb3fb673b4449a3"
 
@@ -31,6 +43,10 @@ hash = "ee8193a36d07827e52d540a81d07460e3b47a0bda6366adef1873d9b02a83b52"
 [[files]]
 file = "hosted/dynamiclights-v1.9-mc1.17-1.21.9-mod.jar"
 hash = "f02d2bcb995ee5531555995d6625571bc7f3518fa3f5e45bba230d08cd89a608"
+
+[[files]]
+file = "hosted/entityculling-forge-1.8.1-mc1.20.1.jar"
+hash = "753f7627a2b64f9662bbf82dfe2208df0a1d117245f2c5e99ae7086fe17131ec"
 
 [[files]]
 file = "hosted/gambling-2.1.jar"
@@ -220,6 +236,11 @@ hash = "2fcc66510ef8862b20aa92aaecf32cceade80594252a9232f0e91fe78e6b83d8"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "dbc04cf71baa724fea03c005d6d1513605aabd2089a0d167bbfe7d082f8da009"
 metafile = true
@@ -355,6 +376,11 @@ hash = "133881d2f995195c6751f381b2df6d410b643b61fb7528ef13f657cfacff02e1"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "be310d4a4405c907522eb10a9c08e9a57c636c4d8315dbfb23bed59bfbbdd8ca"
 metafile = true
@@ -362,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "1477857fc4870fa03596e4a60fe2912ae74aa624002728c0a2fc747100a14892"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
