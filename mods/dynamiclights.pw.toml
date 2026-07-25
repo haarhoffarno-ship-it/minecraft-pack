@@ -1,0 +1,8 @@
+name = "dynamiclights"
+filename = "dynamiclights-v1.9-mc1.17-1.21.9-mod.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/dynamiclights-v1.9-mc1.17-1.21.9-mod.jar"
+hash-format = "sha256"
+hash = "f02d2bcb995ee5531555995d6625571bc7f3518fa3f5e45bba230d08cd89a608"

@@ -1,0 +1,8 @@
+name = "slotmachinemod"
+filename = "slotmachinemod-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/slotmachinemod-1.2.1.jar"
+hash-format = "sha256"
+hash = "10cd531351984b44516bb79c38c53b996a53c502b8dabbb2829339135b96a122"

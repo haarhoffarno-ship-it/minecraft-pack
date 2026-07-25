@@ -1,0 +1,8 @@
+name = "simplyspeakers"
+filename = "simplyspeakers-forge-1.20.1-0.7.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/simplyspeakers-forge-1.20.1-0.7.2.jar"
+hash-format = "sha256"
+hash = "9cad3fc4f3d3ab5e573a538155ada3d91a98ee581b9cb2191d6922ea8cf5dd95"

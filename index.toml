@@ -85,6 +85,11 @@ file = "hosted/wandering_collector-1.20.1-1.0.jar"
 hash = "87b881c2a57215f868bc5c688177e808be2da9834d0ad6e6df92abacec7fc063"
 
 [[files]]
+file = "mods/antixray.pw.toml"
+hash = "3e0d9d5117596bad162ac53c9a92eb70727c4b870c699f89d8a63074ab77b67a"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
@@ -185,6 +190,11 @@ hash = "5e20c0b710af1bf94d7b4040019af7f2d6e26953a22a6543b23fa5cfa5568a4a"
 metafile = true
 
 [[files]]
+file = "mods/dynamiclights.pw.toml"
+hash = "2fcc66510ef8862b20aa92aaecf32cceade80594252a9232f0e91fe78e6b83d8"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "dbc04cf71baa724fea03c005d6d1513605aabd2089a0d167bbfe7d082f8da009"
 metafile = true
@@ -220,6 +230,11 @@ hash = "740c00f1646fcec0850c74b2c302bda9365adb0e45ffba9eb5f5559c88fc1bff"
 metafile = true
 
 [[files]]
+file = "mods/gravestone.pw.toml"
+hash = "9fdb35614f20cfefdd7fa45a5c45f072e940386bd4809b9542cb1bbef972f1ff"
+metafile = true
+
+[[files]]
 file = "mods/illager-arena.pw.toml"
 hash = "71a17be7ee814f71a6d5abd1873ac4b735d0a6f4eb8c66d2d6a3d5b84ced49c1"
 metafile = true
@@ -235,6 +250,16 @@ hash = "a2277a000bcab08a8e0939dae7c8ef3b1db5327e2fa7bd37919e4e2f1b3c174d"
 metafile = true
 
 [[files]]
+file = "mods/jlme.pw.toml"
+hash = "b3f19137abf85e41386d1c2f990da4e385e8733b23325f8ec10754c5cd69f559"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "af372bc76bb2b94e21ff242bf5376b814ac665e6b9d4f13a6b492a3f60e3f91a"
+metafile = true
+
+[[files]]
 file = "mods/krypton-fnp.pw.toml"
 hash = "1bc3a86ecfdb6e69b66abe62d1be9c1fde8400e64dd0971471f914640fa9eba4"
 metafile = true
@@ -247,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/lazrs-lib.pw.toml"
 hash = "b49ab62c5b76e9110492fc101bae10a199b642fd270e04a07c835a7e8ad77ed4"
+metafile = true
+
+[[files]]
+file = "mods/legendarymonsters.pw.toml"
+hash = "6f2c2adc993189acfc223e82fad5221daa8484bf9cd81152d3dcd801485b327b"
 metafile = true
 
 [[files]]
@@ -310,6 +340,11 @@ hash = "c75ec0f13a06a0bf503dab32ab604cc19e52a65238ccbe08575a74b83ab7b2a2"
 metafile = true
 
 [[files]]
+file = "mods/relics.pw.toml"
+hash = "1c54cfb56f9f5a707fedc043dc2c2cd16ebf944f41e3c79c080cb9f714842770"
+metafile = true
+
+[[files]]
 file = "mods/revervox.pw.toml"
 hash = "3730f10243510e34ac98533ddf88b048df5fe7e9ffad5440f56eb8ff380181a6"
 metafile = true
@@ -332,6 +367,16 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "142fd3452686832d531e966f8966f35930605445584977c74cb628e74df32366"
+metafile = true
+
+[[files]]
+file = "mods/simplyspeakers.pw.toml"
+hash = "8579f6d20832b23d82a7f4760181b90ccd58521ba4a798792a56a12992c85444"
+metafile = true
+
+[[files]]
+file = "mods/slotmachinemod.pw.toml"
+hash = "faea2dc21168f89435a227b4d90f01ee168b40e9604db6b3eeae8243b639cba3"
 metafile = true
 
 [[files]]
@@ -365,6 +410,11 @@ hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
 metafile = true
 
 [[files]]
+file = "mods/trials-final.pw.toml"
+hash = "17688a3f2dc96885c1e028dd884fb76356051f818840fd79532f077abd7af4c0"
+metafile = true
+
+[[files]]
 file = "mods/v1-overcharge.pw.toml"
 hash = "4e6e4c50e872276234796a8bc289b03e95a544d921476413c5ede93247d7b8f3"
 metafile = true
@@ -372,6 +422,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "5b1cadb46c4df839bfccd74bea51d1e567b7ac8e9df62ab095e7150b4af4d6ca"
+metafile = true
+
+[[files]]
+file = "mods/veinmining.pw.toml"
+hash = "4ec4edcb7737ae3c5d6b0b2b4f3106a5a90db1335a895d79a6d6dc0c6c0862ea"
 metafile = true
 
 [[files]]
