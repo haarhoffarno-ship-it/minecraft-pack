@@ -1,6 +1,6 @@
 name = "entityculling"
 filename = "entityculling-forge-1.8.1-mc1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/entityculling-forge-1.8.1-mc1.20.1.jar"

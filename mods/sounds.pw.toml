@@ -1,6 +1,6 @@
 name = "sounds"
 filename = "Sounds-2.2.1+1.20.1+forge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/Sounds-2.2.1%2B1.20.1%2Bforge.jar"
