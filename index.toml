@@ -9,8 +9,16 @@ file = "hosted/Krypton-FNP-forge-1.20.1-0.2.28.2-1.20.1.jar"
 hash = "4a3ee9c1fceff4c480024c78b9b3626a50b6839ee977aa0ff9095242cc4fcf0e"
 
 [[files]]
+file = "hosted/Trials-Final.jar"
+hash = "b4c541d37d34f5171ae98fb1438c3b5e882f73681fbd6649b35220555702e05a"
+
+[[files]]
 file = "hosted/VisualEnchantments.zip"
 hash = "871c1841a3bd6822d8765d5493124261115c1428b7125e4bfe43f1f97497c32e"
+
+[[files]]
+file = "hosted/antixray-forge-1.4.6+1.20.1.jar"
+hash = "d8ced4101b1d90adfc4df223f9e28bbc0884b43fd83a0820ea8caab1e3918e23"
 
 [[files]]
 file = "hosted/copperagebackport-forge-1.20.1-0.1.4.jar"
@@ -21,8 +29,28 @@ file = "hosted/dimdoors-5.4.4-1.20.1-forge.jar"
 hash = "ee8193a36d07827e52d540a81d07460e3b47a0bda6366adef1873d9b02a83b52"
 
 [[files]]
+file = "hosted/dynamiclights-v1.9-mc1.17-1.21.9-mod.jar"
+hash = "f02d2bcb995ee5531555995d6625571bc7f3518fa3f5e45bba230d08cd89a608"
+
+[[files]]
 file = "hosted/gambling-2.1.jar"
 hash = "641032cdd51d47011b271247c1028abf4b77357036db086ddf78a5c15d1facfb"
+
+[[files]]
+file = "hosted/gravestone-forge-1.20.1-1.0.35.jar"
+hash = "af6de8692229f07d203e118241f31c1dc4d03f8e3b44cacd155d76b449896387"
+
+[[files]]
+file = "hosted/jlme-1.20.1forge-ver1.6d-all.jar"
+hash = "ed78fbddcdb5ade8b091fb4783829c8b9632fd09e443611d9e034d7ce561a88a"
+
+[[files]]
+file = "hosted/journeymap-1.20.1-5.10.3-forge.jar"
+hash = "7640a8fdc24ea3988764f774ed1b84cae60f70a1b395bb693faa7aa91b38af62"
+
+[[files]]
+file = "hosted/legendarymonsters-2.0.6 MC 1.20.1.jar"
+hash = "fe1a3b5f79a1916d3c522b09bbb0b9f80cb628ea3a0bc6425851398f995d470a"
 
 [[files]]
 file = "hosted/mbackrooms-1.4.0.jar"
@@ -33,12 +61,38 @@ file = "hosted/pml-1.0.4b-all.jar"
 hash = "7e3d7f09ea49ead2bf9cd319933ee55e5760410b565c12f3c9fbdafa3bb57627"
 
 [[files]]
+file = "hosted/relics-1.20.1-0.8.0.13.jar"
+hash = "2731d3b81533564c5d206faf94e4e8afaf928d97b47b720e5d6aaa017333096f"
+
+[[files]]
+file = "hosted/simplyspeakers-forge-1.20.1-0.7.2.jar"
+hash = "9cad3fc4f3d3ab5e573a538155ada3d91a98ee581b9cb2191d6922ea8cf5dd95"
+
+[[files]]
+file = "hosted/slotmachinemod-1.2.1.jar"
+hash = "10cd531351984b44516bb79c38c53b996a53c502b8dabbb2829339135b96a122"
+
+[[files]]
 file = "hosted/spear-backport-forge-1.4.7-1.20.1.jar"
 hash = "54849b707ac5ecb121c57a22f3de43cf790c60b4f36d5763d1a5cbdb4de2ae9d"
 
 [[files]]
+file = "hosted/veinmining-forge-1.5.0+1.20.1.jar"
+hash = "0863db13b3e13ec5fd077df1b64c21ab7637048880713c859246a6e1d7144460"
+
+[[files]]
 file = "hosted/wandering_collector-1.20.1-1.0.jar"
 hash = "87b881c2a57215f868bc5c688177e808be2da9834d0ad6e6df92abacec7fc063"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
 
 [[files]]
 file = "mods/artistry-draw.pw.toml"
@@ -47,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ed4ccdb13c738b7f70df056df84a1b977fb256a53c2921610c565069c15912c7"
+hash = "6e777e9c5758493d4e2e238806df02a40d06072cb8f3b448563dd62c461305b0"
 metafile = true
 
 [[files]]
@@ -63,6 +117,16 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
+metafile = true
+
+[[files]]
+file = "mods/clanging-howl.pw.toml"
+hash = "f0f847c2b56877360a679165defef09254d1b78c5f9266a90769ddf9e31578e3"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
@@ -101,6 +165,26 @@ hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
+file = "mods/cuffed.pw.toml"
+hash = "62c48c6ee57981e70dac819a58bd3ed9afdd96c2264661b0d941d1c46e1aaa12"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "55d77d596c2d805f28b47ea53725ccaa220d2857177cad3909e48d8c12b2a2cb"
+metafile = true
+
+[[files]]
+file = "mods/darkcasino.pw.toml"
+hash = "8827eaecae31cf702b3166ad2f4f06d7c7c2a0f61e80d6cf30e7f65d57c4912e"
+metafile = true
+
+[[files]]
+file = "mods/dimdoors.pw.toml"
+hash = "5e20c0b710af1bf94d7b4040019af7f2d6e26953a22a6543b23fa5cfa5568a4a"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "dbc04cf71baa724fea03c005d6d1513605aabd2089a0d167bbfe7d082f8da009"
 metafile = true
@@ -116,6 +200,11 @@ hash = "d9085cd7cbf2812c660aeb292b50a34453a798de0c4e9494a864f28b6cc0b609"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
 file = "mods/gambling.pw.toml"
 hash = "7c97cc0d52d13e2697bc9d8c6a88a48c96439e7911125df1dcb511ccd61b60ca"
 metafile = true
@@ -126,8 +215,23 @@ hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
 metafile = true
 
 [[files]]
+file = "mods/grand-teleport-gtp.pw.toml"
+hash = "740c00f1646fcec0850c74b2c302bda9365adb0e45ffba9eb5f5559c88fc1bff"
+metafile = true
+
+[[files]]
+file = "mods/illager-arena.pw.toml"
+hash = "71a17be7ee814f71a6d5abd1873ac4b735d0a6f4eb8c66d2d6a3d5b84ced49c1"
+metafile = true
+
+[[files]]
 file = "mods/immersive-gateways.pw.toml"
 hash = "acdfb7bc358b783c9dd89ca24f6952e7b722962119d4644cecf1c77ff4e9c77d"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "a2277a000bcab08a8e0939dae7c8ef3b1db5327e2fa7bd37919e4e2f1b3c174d"
 metafile = true
 
 [[files]]
@@ -136,8 +240,13 @@ hash = "1bc3a86ecfdb6e69b66abe62d1be9c1fde8400e64dd0971471f914640fa9eba4"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "ed086cdfde6ba4bb175468a76f3df3b9517aea3fe95b09bed0f1fa70f7caeb6a"
+metafile = true
+
+[[files]]
 file = "mods/lazrs-lib.pw.toml"
-hash = "a370483a316bc06c0d44e48b66ebe61667d74c5452ffb4d75a9db248a4f17c03"
+hash = "b49ab62c5b76e9110492fc101bae10a199b642fd270e04a07c835a7e8ad77ed4"
 metafile = true
 
 [[files]]
@@ -146,13 +255,43 @@ hash = "c4b3d0a8c5879008f6a39882859bdd862a5f1b27a31e61930e7a44e719138d3a"
 metafile = true
 
 [[files]]
+file = "mods/lukis-grand-capitals.pw.toml"
+hash = "13ffe9265e50d2bfe9b97c3fabb9c1c8893430091207c89acf21dc8946520e14"
+metafile = true
+
+[[files]]
 file = "mods/majrusz-library.pw.toml"
-hash = "bc6a2458b8337e76c0636142242ef36f75ff13e65f977fdd81bb5cc823e5b360"
+hash = "0ef781c42a9409729bab1b76403b1a1dcd1eae6e22ebbdedab180acd2a64952c"
+metafile = true
+
+[[files]]
+file = "mods/mbackrooms.pw.toml"
+hash = "cb27f82f825f92607373d74090142705cee3935bd8a407cb4fca0ac4fbb790af"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "133881d2f995195c6751f381b2df6d410b643b61fb7528ef13f657cfacff02e1"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "be310d4a4405c907522eb10a9c08e9a57c636c4d8315dbfb23bed59bfbbdd8ca"
 metafile = true
 
 [[files]]
 file = "mods/orbital-railgun-reforged.pw.toml"
 hash = "3f80f8fc3479ab6b084d9abbe633947ea6229ce0ceca4bebdad2ef15a32fad1f"
+metafile = true
+
+[[files]]
+file = "mods/pizzacraft.pw.toml"
+hash = "5c333798f06a3b444b252c48d4d5d1c03b304085d37c0f1edf985328116470ea"
+metafile = true
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "5ce46d374b408e600b1dcd3ebc5127bf7da817252d5ade7d9c041254dc40c0e2"
 metafile = true
 
 [[files]]
@@ -171,13 +310,38 @@ hash = "c75ec0f13a06a0bf503dab32ab604cc19e52a65238ccbe08575a74b83ab7b2a2"
 metafile = true
 
 [[files]]
+file = "mods/revervox.pw.toml"
+hash = "3730f10243510e34ac98533ddf88b048df5fe7e9ffad5440f56eb8ff380181a6"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
-hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
+hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
+metafile = true
+
+[[files]]
+file = "mods/shatterbyte-lib.pw.toml"
+hash = "fee498cb6d037ca6130755d9e3d42d16f08e208d9a510525dbe55797ca98f30a"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "3f3297e9f92ea76f921b005048281b8de80d3ac1c92f705c7ba5491bfd0524f5"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "6f7e41512ef7bbd820d7dda503ed671d4a35b59c0e8ae9679697501b6cd9d792"
+hash = "142fd3452686832d531e966f8966f35930605445584977c74cb628e74df32366"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "ee2d9154be68ef20293596a3f65810111fd35a802f1e8292e9ba8872de463a14"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
 
 [[files]]
@@ -206,13 +370,38 @@ hash = "4e6e4c50e872276234796a8bc289b03e95a544d921476413c5ede93247d7b8f3"
 metafile = true
 
 [[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "5b1cadb46c4df839bfccd74bea51d1e567b7ac8e9df62ab095e7150b4af4d6ca"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-recording.pw.toml"
+hash = "5577887f3b5afede05c5c9d6de14b1bf39f088c3f6b0425b5b39d24a95177ace"
+metafile = true
+
+[[files]]
 file = "mods/wandering-collector.pw.toml"
 hash = "79aae51020cf355536db50def20ed8adca94b8af948881e51bdd9c4a7502fe75"
 metafile = true
 
 [[files]]
+file = "mods/waystones.pw.toml"
+hash = "5ab6f2a4a50bd53506496d3da0c2c09d5a3ca363c3ebc7ca8641ecd3f7104365"
+metafile = true
+
+[[files]]
 file = "mods/weather-storms-tornadoes.pw.toml"
 hash = "8669708ff6478c72e7c5aa8c25c66e8178bbb316a684b86505fc986631eae6a3"
+metafile = true
+
+[[files]]
+file = "mods/wonderful-enchantments.pw.toml"
+hash = "32b0cc4de656130b7c0f66b110338536ce09e025490b3144893a1af3527e4701"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Cuffed"
+filename = "Cuffed-1.20.1-1.3.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "680bea9fe7015a016d72720cc1ecca9dca97631c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8094298
+project-id = 899770
