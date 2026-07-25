@@ -201,6 +201,11 @@ hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
 metafile = true
 
 [[files]]
+file = "mods/v1-overcharge.pw.toml"
+hash = "4e6e4c50e872276234796a8bc289b03e95a544d921476413c5ede93247d7b8f3"
+metafile = true
+
+[[files]]
 file = "mods/wandering-collector.pw.toml"
 hash = "79aae51020cf355536db50def20ed8adca94b8af948881e51bdd9c4a7502fe75"
 metafile = true

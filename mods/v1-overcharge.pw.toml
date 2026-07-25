@@ -1,0 +1,13 @@
+name = "V1_Overcharge"
+filename = "v1_overcharge-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e08b65c09269f30974ce978637cd43f333266d83"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8474221
+project-id = 1551885
