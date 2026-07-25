@@ -1,0 +1,8 @@
+name = "citresewn"
+filename = "citresewn-1.20.1-5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/citresewn-1.20.1-5.jar"
+hash-format = "sha256"
+hash = "b7fdf42262e9be2dd599386128ed0383d339dd4b585eea0f73f5bde5f0de5832"

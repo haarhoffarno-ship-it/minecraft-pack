@@ -1,0 +1,8 @@
+name = "entityculling"
+filename = "entityculling-forge-1.8.1-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/entityculling-forge-1.8.1-mc1.20.1.jar"
+hash-format = "sha256"
+hash = "753f7627a2b64f9662bbf82dfe2208df0a1d117245f2c5e99ae7086fe17131ec"

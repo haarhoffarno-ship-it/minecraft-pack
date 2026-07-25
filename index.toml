@@ -141,6 +141,11 @@ hash = "cdea873cf54953696c1a63d8fd4c2bcf21065970a875f154cf8cdb3e11b7126c"
 metafile = true
 
 [[files]]
+file = "mods/cavedust.pw.toml"
+hash = "e564161b922db5d219ad2585443430cbdf51e80e4471daba15b82cb07502e214"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "8e04e8135c2114f8d4b34dd637381a975ca86cd5bd24f34ee44ea1efc863ed81"
 metafile = true
@@ -148,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
+metafile = true
+
+[[files]]
+file = "mods/citresewn.pw.toml"
+hash = "c3e9e5ff3e53747fcc8f475d9bfad3c8f00bf46402f3d2d48cd7b07c364595c3"
 metafile = true
 
 [[files]]
@@ -258,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
 hash = "48d621f055c242082a47a9df3770b38000889b9e2b0e0d14c014ad1ae35968c4"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "7aa399e65e8b8ed09bfc740c647361d7054796a3864792a0536212f417bd9dde"
 metafile = true
 
 [[files]]
@@ -468,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "ee2d9154be68ef20293596a3f65810111fd35a802f1e8292e9ba8872de463a14"
+metafile = true
+
+[[files]]
+file = "mods/sounds.pw.toml"
+hash = "19c8cf70b7bc46968ab2e70b61ca962761625fbb7087d06c98313f851e86ae66"
 metafile = true
 
 [[files]]
