@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/aeronautics-winds-and-weather.pw.toml"
+hash = "9172958670e378bb4f9693b21a5ec2807f229a5ff9c9ba58d667ce0f6e4da5a7"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
@@ -16,6 +21,16 @@ hash = "19ff928a1c92265070c2795f21f5d6ee91c8a25beb9e9fe220cee5479317ba5d"
 metafile = true
 
 [[files]]
+file = "mods/protomanlys-weather.pw.toml"
+hash = "5074c1853c6fc522e39014be88c3badaf4e2ad975030f70118bcf8adefd71eb2"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hew2.pw.toml"
+hash = "30cce181d0b21f5e02265c4f77109a931c256b7566e71a14751784f60372a4b9"
 metafile = true

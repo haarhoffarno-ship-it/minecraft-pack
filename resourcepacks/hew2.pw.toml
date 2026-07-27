@@ -1,0 +1,13 @@
+name = "Haru's Enhanced Weather2"
+filename = "HEW2_PMW_R1_1_2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NkEN8mqj/versions/x6U4MXZ5/HEW2_PMW_R1_1_2.zip"
+hash-format = "sha512"
+hash = "368ea771b7b5470b6e26c22eb85bf2a5beab23cf7585e86ad6407d2683a90ba616b8485d84fe98cdaacc30d6df5a38e7ab116dfe3d829d50ceafd45ab41584a7"
+
+[update]
+[update.modrinth]
+mod-id = "NkEN8mqj"
+version = "x6U4MXZ5"

@@ -1,0 +1,13 @@
+name = "Aeronautics: Winds & Weather"
+filename = "aeronauticswinds-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vh6aSn2S/versions/aO1Iz4Km/aeronauticswinds-1.2.jar"
+hash-format = "sha512"
+hash = "9026873c864f8817d1d61ec2ebc68ee7a9412f66da58ee06dfa061a495e7659e666181539f97c7562ba4c5a3b1733222bb262dd9f36cd841fabee8701a742120"
+
+[update]
+[update.modrinth]
+mod-id = "vh6aSn2S"
+version = "aO1Iz4Km"
