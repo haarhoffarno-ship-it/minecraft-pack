@@ -1,8 +1,0 @@
-name = "mbackrooms"
-filename = "mbackrooms-1.4.0.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/mbackrooms-1.4.0.jar"
-hash-format = "sha256"
-hash = "562bade0fc1f3055c45c0dcf62446cf6498e843080ded615f5c4a92d7a5ddc52"

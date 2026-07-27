@@ -1,8 +1,0 @@
-name = "spear-backport"
-filename = "spear-backport-forge-1.4.7-1.20.1.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/spear-backport-forge-1.4.7-1.20.1.jar"
-hash-format = "sha256"
-hash = "54849b707ac5ecb121c57a22f3de43cf790c60b4f36d5763d1a5cbdb4de2ae9d"

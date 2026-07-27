@@ -1,8 +1,0 @@
-name = "casinocraft"
-filename = "CasinoCraft_1.20.1_v25.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/CasinoCraft_1.20.1_v25.jar"
-hash-format = "sha256"
-hash = "470aede4e24e074c29637fe92ae822aa0f71d787f62e7c352f4c647632ef6a16"

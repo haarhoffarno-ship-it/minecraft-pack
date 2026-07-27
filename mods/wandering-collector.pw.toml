@@ -1,8 +1,0 @@
-name = "wandering-collector"
-filename = "wandering_collector-1.20.1-1.0.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/wandering_collector-1.20.1-1.0.jar"
-hash-format = "sha256"
-hash = "87b881c2a57215f868bc5c688177e808be2da9834d0ad6e6df92abacec7fc063"

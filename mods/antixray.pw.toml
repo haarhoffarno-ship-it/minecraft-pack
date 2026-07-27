@@ -1,8 +1,0 @@
-name = "antixray"
-filename = "antixray-forge-1.4.6+1.20.1.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/antixray-forge-1.4.6+1.20.1.jar"
-hash-format = "sha256"
-hash = "d8ced4101b1d90adfc4df223f9e28bbc0884b43fd83a0820ea8caab1e3918e23"

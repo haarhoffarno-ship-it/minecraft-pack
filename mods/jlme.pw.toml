@@ -1,8 +1,0 @@
-name = "jlme"
-filename = "jlme-1.20.1forge-ver1.6d-all.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/jlme-1.20.1forge-ver1.6d-all.jar"
-hash-format = "sha256"
-hash = "ed78fbddcdb5ade8b091fb4783829c8b9632fd09e443611d9e034d7ce561a88a"

@@ -1,8 +1,0 @@
-name = "dimdoors"
-filename = "dimdoors-5.4.4-1.20.1-forge.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/dimdoors-5.4.4-1.20.1-forge.jar"
-hash-format = "sha256"
-hash = "ee8193a36d07827e52d540a81d07460e3b47a0bda6366adef1873d9b02a83b52"

@@ -1,8 +1,0 @@
-name = "pml"
-filename = "pml-1.0.4b-all.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/pml-1.0.4b-all.jar"
-hash-format = "sha256"
-hash = "7e3d7f09ea49ead2bf9cd319933ee55e5760410b565c12f3c9fbdafa3bb57627"

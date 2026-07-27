@@ -1,8 +1,0 @@
-name = "trials-final"
-filename = "Trials-Final.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/Trials-Final.jar"
-hash-format = "sha256"
-hash = "b4c541d37d34f5171ae98fb1438c3b5e882f73681fbd6649b35220555702e05a"

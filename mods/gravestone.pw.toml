@@ -1,8 +1,0 @@
-name = "gravestone"
-filename = "gravestone-forge-1.20.1-1.0.35.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/gravestone-forge-1.20.1-1.0.35.jar"
-hash-format = "sha256"
-hash = "af6de8692229f07d203e118241f31c1dc4d03f8e3b44cacd155d76b449896387"

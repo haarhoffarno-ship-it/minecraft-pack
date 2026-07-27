@@ -1,8 +1,0 @@
-name = "legendarymonsters"
-filename = "legendarymonsters-2.0.6 MC 1.20.1.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/haarhoffarno-ship-it/minecraft-pack/main/hosted/legendarymonsters-2.0.6%20MC%201.20.1.jar"
-hash-format = "sha256"
-hash = "fe1a3b5f79a1916d3c522b09bbb0b9f80cb628ea3a0bc6425851398f995d470a"
