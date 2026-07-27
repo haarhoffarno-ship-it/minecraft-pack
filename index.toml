@@ -16,13 +16,48 @@ hash = "a85080c785e75b0bcddae3e14d7644d57e8eee0cf7ce4b670ee9e2bd2db6b886"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-delivery-required.pw.toml"
+hash = "efc272f326f72b54b8113a529ae3656b2dd6eff4529ad511733ea3bf2eaf4712"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-transmission-linkage.pw.toml"
+hash = "fec1a804af60a29865851eac6337d3f55ef663931e29db1d132d946a5b16bc04"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
+hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronauticstoolgun.pw.toml"
+hash = "8a2941d050cb0636a824f3edddbbe43c29fff9ae8a374e39852cfe0b5c82f319"
+metafile = true
+
+[[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "8cac325edfcf301e8bdc29c3077da5227c4aedc5dd234e3b2e9eeead98559376"
+metafile = true
+
+[[files]]
+file = "mods/create-cardan-shafts.pw.toml"
+hash = "b6885c1deebb96c592047334c24851f35c9c3308eb2b58babd091fee6d06e8aa"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+hash = "df11e99922d21336ecfbb0c8ffb6ed942c2f73e32658b39afd1c4edf6b5d0ab3"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks.pw.toml"
+hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -86,8 +121,18 @@ hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "018fd970193f808f8c28f873d8b8c69ac9ba134712c7db27fc8d639cb226c9a6"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
+metafile = true
+
+[[files]]
+file = "mods/ldlib.pw.toml"
+hash = "4472d8cc018128beb3e0436dca8ad04ba26632d070f68897373d549ad9008538"
 metafile = true
 
 [[files]]
@@ -111,8 +156,18 @@ hash = "0e0be66913cdb3c1df311684e6b40ca0e8aaacb4b3c58b4b219036a959569c55"
 metafile = true
 
 [[files]]
+file = "mods/numismatics.pw.toml"
+hash = "56a7c2e0893f18bcb34206b85a90b1be84267e5783f53f602320ad40b36e201d"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+metafile = true
+
+[[files]]
+file = "mods/ponder.pw.toml"
+hash = "763ca3a7d927dfd1ece4d8cc2aedce1acf29614cf7d58b77234f8c748d5f7802"
 metafile = true
 
 [[files]]
@@ -121,8 +176,13 @@ hash = "5074c1853c6fc522e39014be88c3badaf4e2ad975030f70118bcf8adefd71eb2"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "985a99f7465b68e43b98f3dbe1081b7113d957c7926a8caab163503528910f42"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
-hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
+hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
 metafile = true
 
 [[files]]
@@ -148,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/veinminer.pw.toml"
 hash = "03a9564d7cdb16578f46c6f58dcc261968bb440c243ad90229d8ce58aaccc0d3"
+metafile = true
+
+[[files]]
+file = "mods/vs-hose-connectors.pw.toml"
+hash = "c0baea5bb063b538875c25a66b6803f32560c353047d66ee1fdeb7ceddd7c9b5"
 metafile = true
 
 [[files]]
