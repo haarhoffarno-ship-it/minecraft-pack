@@ -6,6 +6,11 @@ hash = "9172958670e378bb4f9693b21a5ec2807f229a5ff9c9ba58d667ce0f6e4da5a7"
 metafile = true
 
 [[files]]
+file = "mods/awakened-islands.pw.toml"
+hash = "d7f8ae89c163e9dd181f0f900637489f38a7b8e7be678a7b994f0c6dc0169c70"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "a85080c785e75b0bcddae3e14d7644d57e8eee0cf7ce4b670ee9e2bd2db6b886"
 metafile = true
