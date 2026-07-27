@@ -1,8 +1,23 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/aeronautics-calibrated.pw.toml"
+hash = "b82661aa3c84216cc3abdb8ebab2a3433341ff57a75ceeb9c9b53a9ce0c2adbc"
+metafile = true
+
+[[files]]
 file = "mods/aeronautics-winds-and-weather.pw.toml"
 hash = "9172958670e378bb4f9693b21a5ec2807f229a5ff9c9ba58d667ce0f6e4da5a7"
+metafile = true
+
+[[files]]
+file = "mods/anvilcore.pw.toml"
+hash = "268b4c1903db15f9619676883c3245b3427691fac5400563525c333819b10119"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
@@ -11,13 +26,73 @@ hash = "d7f8ae89c163e9dd181f0f900637489f38a7b8e7be678a7b994f0c6dc0169c70"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "f1518b9325a7fa419cfb856774ab3065e12b3d6c467ae566a8e07d7cb9929857"
+metafile = true
+
+[[files]]
+file = "mods/cable-facades.pw.toml"
+hash = "fc76a6254c251ebde067cfe0ab7726673d215cba814fe1dcfe3030d1311a313c"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "a85080c785e75b0bcddae3e14d7644d57e8eee0cf7ce4b670ee9e2bd2db6b886"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-automated-logistics.pw.toml"
+hash = "8d6244b8c52c187e3dd3d7a58656ae0bec5e2b3c8488583fc0e2e56e532c7b17"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-claims-ftb-fork.pw.toml"
+hash = "1b9371203e8ce44ba5f2d0fc386e4f0daa2eb95c1bd057ea9ec949a629970f0d"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-climbable-ropes.pw.toml"
+hash = "73aab56b5a698c35806093436703eab84556561482e6ee422cc39283b65fde78"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-copycat-wing.pw.toml"
+hash = "702f920d362c413cd2054d63c4a6e1b4d32529f9737f4b20c2bd3184383a10f6"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-covers.pw.toml"
+hash = "bef654052e82d62821529292bc891a2a7e92a59d88433a2fe9d86b09e36bb8ec"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-delivery-required.pw.toml"
 hash = "efc272f326f72b54b8113a529ae3656b2dd6eff4529ad511733ea3bf2eaf4712"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-dyeable-components.pw.toml"
+hash = "8f4c3ea13a0c7c738476e0a8f3b60b81ade57db7444dfabc3d2d619c0dcf9fbf"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-gadgets-and-gizmos.pw.toml"
+hash = "ce71bde6857e9e52589c7d5f524c5e32397bb2ea8c851390b300b0109223232e"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-portable-engine-liquid-fuel.pw.toml"
+hash = "0e03964744cbccd2a9dd556690463b77dbe83633f9d4f755ead9efc32a090519"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-throwable-rope-connector.pw.toml"
+hash = "8ad0aa6760c7f2d7fb6942affd5ceaef33ca871e7f5a0a4cbd18b1806a03f587"
 metafile = true
 
 [[files]]
@@ -41,8 +116,58 @@ hash = "8cac325edfcf301e8bdc29c3077da5227c4aedc5dd234e3b2e9eeead98559376"
 metafile = true
 
 [[files]]
+file = "mods/create-better-fps.pw.toml"
+hash = "13481b387ddbf461b1da0ff317df17beafeda05291a586ee717bac23c86a0e74"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "b6ac94e91f766466186d350ed45a79fdcf7805f34d9170ccc8612ff47983a5f5"
+metafile = true
+
+[[files]]
 file = "mods/create-cardan-shafts.pw.toml"
 hash = "b6885c1deebb96c592047334c24851f35c9c3308eb2b58babd091fee6d06e8aa"
+metafile = true
+
+[[files]]
+file = "mods/create-creating-space.pw.toml"
+hash = "ca9d946f1f3e0d6f0b5ac435886fc94c3a4c2ae1d30f9116dfc68bbc1267dbeb"
+metafile = true
+
+[[files]]
+file = "mods/create-deep-seas.pw.toml"
+hash = "96b3a6fcba1cbf8d976211fb2d13f934e0586ed6b80f0f4bed1a4b4ffe9a2a70"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "b8871b2a91d1eb68d187060e8f6e34d9cd2b407677587e9481b4b9eb042afab0"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-plus.pw.toml"
+hash = "414e58789e401b3169e8a38f081e5e05e4309ba1cb507bdb0a443ab6edb857cb"
+metafile = true
+
+[[files]]
+file = "mods/create-escalated.pw.toml"
+hash = "040e5ed9eafedf380f2dcf058efd2cc2a15d5cdfe29a49b7ef41b21c6d935f75"
+metafile = true
+
+[[files]]
+file = "mods/create-kinetic-grip.pw.toml"
+hash = "9cbc43b7e0d958c45b733f1408ecf477f4fc199ded13ee2c5c85aeed8f20bddb"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "cba6d7d04b6068e326445672253580520a87873fc1065f7682984a9b9d91deb5"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "3872eeb409b1a2b5acdf5a270825a9e703e240ee8230a08b820a21c19f14c27e"
 metafile = true
 
 [[files]]
@@ -51,13 +176,38 @@ hash = "df11e99922d21336ecfbb0c8ffb6ed942c2f73e32658b39afd1c4edf6b5d0ab3"
 metafile = true
 
 [[files]]
+file = "mods/create-sky-village.pw.toml"
+hash = "a6bd82785c25839da2a34c45a73c09a896c14e7624ee3ed5448159b745a286be"
+metafile = true
+
+[[files]]
+file = "mods/create-structures-arise.pw.toml"
+hash = "8621d1204a1c3a7ba4819f58f6d29398678d94d35946bcd320e98fe572c4124a"
+metafile = true
+
+[[files]]
+file = "mods/create-towed.pw.toml"
+hash = "f3c7ce5ee7fa64eaf447f97da1bbf061bd04825bd6f76904df366a5700a06050"
+metafile = true
+
+[[files]]
 file = "mods/create-tracks.pw.toml"
 hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
 metafile = true
 
 [[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "73ffac269e3ce480c7dd3a17e7f2f027e73727fcc375d4e1cef4c490cdd36686"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "e55818e04fcaeb7bc0edce1cec106bc88cfd56d2bdbcc228fb374f797ef598cc"
 metafile = true
 
 [[files]]
@@ -86,13 +236,48 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "0922cfee3b7351e62fb22ccc6e5a59f35fd99fe80737dc861ada3b5407ecdf87"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "4c996e783683f1a51df88d6af6b57881ff095c8801b0f5ab2969d0d121c137f8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
+metafile = true
+
+[[files]]
+file = "mods/hypertubes.pw.toml"
+hash = "ac3048de2c76da8d99d34c918540fd6db4f44245725e8a349a9a963671f2eea6"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "94af73eec28b59b314b2c6ef9dfb98f37d7bbcbcb482c278570cc15e44b6a559"
 metafile = true
 
 [[files]]
+file = "mods/interiors.pw.toml"
+hash = "f1cec80f06a6bb696ff7250c273e328519944adb6b677dcd2476b428ede02e4e"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "b09dfb336204fb3b61342f4e5310ef57d9913b32bfa8d256b5225fc10f535cf0"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
 metafile = true
 
 [[files]]
@@ -108,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "6533cfb3a25657622ed3a38370ede0c8186e27df2769fac8bf9021e8c33ad01a"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
 metafile = true
 
 [[files]]
@@ -162,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
@@ -181,8 +371,23 @@ hash = "985a99f7465b68e43b98f3dbe1081b7113d957c7926a8caab163503528910f42"
 metafile = true
 
 [[files]]
+file = "mods/ritchies-projectile-library.pw.toml"
+hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
+metafile = true
+
+[[files]]
+file = "mods/sable-collision-damage-create-aeronautics.pw.toml"
+hash = "9d97b1bb16d415f697972583d7912d81567dd9661994fe3a6bcefd315d7dddf0"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
+metafile = true
+
+[[files]]
+file = "mods/shellbound-for-airship.pw.toml"
+hash = "45bfd1ceaa0195b43216b65494d5ce7d19a945663836d3a21c8ea04974533dde"
 metafile = true
 
 [[files]]
@@ -191,8 +396,28 @@ hash = "cca4b10598ae8cedcc2a6531a422453d624ceb4d1de1163ce46255415ccda045"
 metafile = true
 
 [[files]]
+file = "mods/sky-tiger-air-balloon.pw.toml"
+hash = "525e3ce5c6fca92009e7b8b4ac065c4fc5469301e1c7c708f0297d66fe194d44"
+metafile = true
+
+[[files]]
+file = "mods/sky-villages-forge.pw.toml"
+hash = "49293cb0b33f4acd9b12a1ea953532821d001040f5f5010a4de7b5c461d1214c"
+metafile = true
+
+[[files]]
+file = "mods/sky-whale-ship.pw.toml"
+hash = "ad9d8d873b1bbf46bc88bb2489edd961285f08f213213428f219c15ebaa24c09"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "95ac868355ac97c74762a7f5295aa618bc9f67fb6b1ab1009f6a0d9c42efeae2"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
-hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
+hash = "c9291e44e1fd34eddbc1a2a9d69a90cb6c29d214abe4d3f282d9eaed62fa3416"
 metafile = true
 
 [[files]]
@@ -216,8 +441,68 @@ hash = "c0baea5bb063b538875c25a66b6803f32560c353047d66ee1fdeb7ceddd7c9b5"
 metafile = true
 
 [[files]]
+file = "mods/waystones-sable.pw.toml"
+hash = "f6a7955c87063de02f441cba9f23bd70160e38e023304d5a498833118a5965ab"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "cdd6792d04eef2981de616a24f1d89648749c3c7494396f2119cd6ec7ce1e242"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "6d6e832992f8af3bfd90232e3582e4e11eb42901d16a747a81eea5b811489be3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "31b790264c547f133124a0550492cd60adb6051ea89e1bc66e41757c729cd7be"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "e69be521bff22311441c2ea7925bb797b685c18a77757378f8788b135548a8ee"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "47b9feb2a4885219b0766520de67a0ea5fa387543188badfaede174e7490b067"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "496ebeea36e9b73f5858e4a730dd90d2aba61f9d8c85bae41549564a4e438519"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.pw.toml"
+hash = "0a786416dcef1b24033a9c652e1e0fc6c97b77cfdfab3b65d4f3cd87377d3a69"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "e5c942089bd840a39aa6f2ab80bb7e555d2733efc119d59e4e2286ab00a4b8a0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "fc424be6d37c39981001e126d1ce0923ccec89d5efff6ffa3854b4f6f20a6592"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "3c30c032674bfd22ef88cf87dcfd4445c7dbc86bf05dc7f14df584c30315aee0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "e43a2ee91cb22f300d2e693141c31e92958034a5e51ebfbdacb30d61dce153b2"
 metafile = true
 
 [[files]]

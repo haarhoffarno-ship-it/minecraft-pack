@@ -1,0 +1,13 @@
+name = "Sable: Collision damage (Create Aeronautics)"
+filename = "sablecollisiondamage-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea36294547303f823c742619946db77b5cc7b279"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8253180
+project-id = 1521697

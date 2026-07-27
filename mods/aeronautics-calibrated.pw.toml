@@ -1,0 +1,13 @@
+name = "Aeronautics: Calibrated"
+filename = "Neoforge-Aeronautics-Calibrated-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aeed0c4221ce765f7b6dc229c467550e27addf42"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8489575
+project-id = 1532869

@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Claims FTB Fork"
+filename = "aeroclaims_ftb-1.21.1-0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "786e6c1f1f784d71da2a4a8d81bb1b1ac880f191"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8021927
+project-id = 1530192
