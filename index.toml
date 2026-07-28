@@ -11,6 +11,11 @@ hash = "9172958670e378bb4f9693b21a5ec2807f229a5ff9c9ba58d667ce0f6e4da5a7"
 metafile = true
 
 [[files]]
+file = "mods/aetherial-islands.pw.toml"
+hash = "07735cfeaea8f9d4532a6ca653fa3b4fc83ed2d7f16fff96ac2741a8c37f12a8"
+metafile = true
+
+[[files]]
 file = "mods/anvilcore-.pw.toml"
 hash = "086d8e2632e3e7da69b4fc4af3de6e86b499015445e7a258e922ae21d667a139"
 metafile = true
@@ -38,6 +43,16 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "a85080c785e75b0bcddae3e14d7644d57e8eee0cf7ce4b670ee9e2bd2db6b886"
+metafile = true
+
+[[files]]
+file = "mods/chinese-flying-island-tower.pw.toml"
+hash = "e008f82e78937dfd3807470bf13724c57c0ac4e732488946611999aa8a3b4491"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
@@ -211,6 +226,11 @@ hash = "e55818e04fcaeb7bc0edce1cec106bc88cfd56d2bdbcc228fb374f797ef598cc"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "c76891545fb28fbcd2c280cf451ad98a463f8a17a50e0eee8a33b3b410743711"
+metafile = true
+
+[[files]]
 file = "mods/dap-ur-homies.pw.toml"
 hash = "c82096b443ddc691eda44822604791653771b7c7da12eaac14fd9ba6bf96d647"
 metafile = true
@@ -253,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
+metafile = true
+
+[[files]]
+file = "mods/georges-flying-island.pw.toml"
+hash = "65eb223f51e0696ab727083c8ea142fe1f72e954e983123b45d500922c79387d"
 metafile = true
 
 [[files]]
@@ -346,6 +371,16 @@ hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
 metafile = true
 
 [[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "7827f48353ece869368dc9b9e5e5f3111d1dc38d166f376fbb176bba96d9e421"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "29c06b3e0967fc14ae933578876dbb94132f98c89e46449c9f33edf60bb3c762"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
@@ -353,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "0e0be66913cdb3c1df311684e6b40ca0e8aaacb4b3c58b4b219036a959569c55"
+metafile = true
+
+[[files]]
+file = "mods/mss-moogs-soaring-structures.pw.toml"
+hash = "45a1b71094606e09e160e39671582b00056790d79015b6d5bd047d2b3d0dc9a7"
 metafile = true
 
 [[files]]
@@ -446,6 +486,11 @@ hash = "4063a3c0f2f9a6544a870f0b90679441d7333652875dafbe3db255fc67f72c82"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "d9a5b02ffd50154e99ef15135e2929282055071efd75fee2b510bf9acb734148"
+metafile = true
+
+[[files]]
 file = "mods/veinminer.pw.toml"
 hash = "03a9564d7cdb16578f46c6f58dcc261968bb440c243ad90229d8ce58aaccc0d3"
 metafile = true
@@ -468,6 +513,66 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "1f47c89af2b4c6ab92735d68e58412d0b369f7035818e58d02f5982f7fc1186a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-neoforge.pw.toml"
+hash = "7cb2156566e58df780f1e1248bc7c336fda5be86d8e5828e3485b951e3934471"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples-neoforge.pw.toml"
+hash = "a383e14bfb10544f993b68c1b5054be9364043878ba965091612fe100f55220c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons-neoforge.pw.toml"
+hash = "c79a58526fab23bdac3e652a1696cb603fc94197c1173ebe48743659ee5656a5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island-neoforge.pw.toml"
+hash = "37417dc78726d2d6c01da523ef791c73ce752bb163965270ecec29ee1af54a0d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples-neoforge.pw.toml"
+hash = "45b08aedb7926aaf079a98b037265aca98bff49a13cc1eb9740bec40f0f02cfb"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-neoforge.pw.toml"
+hash = "1c259e63d4a4a1f2b05eb7e68c8007f92274d2a012e951efdd8958c08985d315"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses-neoforge.pw.toml"
+hash = "e467ffe83dd4e8d2d64f41d46067ddf52d0ca6f3271c56e5858829c15def3e3e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments-neoforge.pw.toml"
+hash = "499a8fffeca4ff272bfcc0ad266add8fb729a6419fec921d4b8a63f7b9bc2877"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds-neoforge.pw.toml"
+hash = "1dbfc17c73001270c3c1f60c02cd72b3f5652ff02557a5f0586fd638a083cd36"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts-neoforge.pw.toml"
+hash = "a8145065cddbb2e4110de30af522f39dc666d2834537f87cd062c969c38fb978"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges-neoforge.pw.toml"
+hash = "245e967489d88447ce203fe1db768657a95bd2b110ea3430516508d0f0aec29f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras-neoforge.pw.toml"
+hash = "cd321f6365bc3938e0671450aadcd40c8e03af5cb24d0a545fb07c890b4793ac"
 metafile = true
 
 [[files]]

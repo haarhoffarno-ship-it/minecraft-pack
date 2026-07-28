@@ -1,0 +1,13 @@
+name = "George's flying island"
+filename = "georges_flying_island-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f806bd9934968735ac1a7cfa85b6acb53167c4d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5715235
+project-id = 1066583
