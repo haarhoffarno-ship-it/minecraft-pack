@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "b09dfb336204fb3b61342f4e5310ef57d9913b32bfa8d256b5225fc10f535cf0"
+hash = "97f34470d491dcb5c91625dcc2b5f545ce3904315b12cababaa3591b2538d189"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
+hash = "bc0ed43619af3b5e453ccb36412d72aef8d066594946a927155d2fbd440e4b40"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "6533cfb3a25657622ed3a38370ede0c8186e27df2769fac8bf9021e8c33ad01a"
+hash = "703ce578285694a974538b9c7c9eb24d3d5d16459f5f5303670f8f0b7a84bae3"
 metafile = true
 
 [[files]]
@@ -407,12 +407,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c9291e44e1fd34eddbc1a2a9d69a90cb6c29d214abe4d3f282d9eaed62fa3416"
+hash = "3d615c32683131c6a98a7da16c28263c5ca5cf50e4f33029e8c72c3558bb362c"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+hash = "09c393b303130cefffc1c376ddfdeb869b20db31d3d42d9fa155e13cfc628645"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+hash = "1f47c89af2b4c6ab92735d68e58412d0b369f7035818e58d02f5982f7fc1186a"
 metafile = true
 
 [[files]]
