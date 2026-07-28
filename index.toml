@@ -176,16 +176,6 @@ hash = "df11e99922d21336ecfbb0c8ffb6ed942c2f73e32658b39afd1c4edf6b5d0ab3"
 metafile = true
 
 [[files]]
-file = "mods/create-sky-village.pw.toml"
-hash = "a6bd82785c25839da2a34c45a73c09a896c14e7624ee3ed5448159b745a286be"
-metafile = true
-
-[[files]]
-file = "mods/create-structures-arise.pw.toml"
-hash = "8621d1204a1c3a7ba4819f58f6d29398678d94d35946bcd320e98fe572c4124a"
-metafile = true
-
-[[files]]
 file = "mods/create-towed.pw.toml"
 hash = "f3c7ce5ee7fa64eaf447f97da1bbf061bd04825bd6f76904df366a5700a06050"
 metafile = true
