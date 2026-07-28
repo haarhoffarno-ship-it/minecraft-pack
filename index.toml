@@ -41,6 +41,11 @@ hash = "a85080c785e75b0bcddae3e14d7644d57e8eee0cf7ce4b670ee9e2bd2db6b886"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "dfc42a26ddd76ee99cad6f023e0c14c82cbb91d2338f7eeac678a05e3e2a13fa"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
@@ -151,6 +156,11 @@ hash = "414e58789e401b3169e8a38f081e5e05e4309ba1cb507bdb0a443ab6edb857cb"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "35f89136e9bed113613f23c93762ee08c6a9148fca951aabfe2cccb930a993c9"
+metafile = true
+
+[[files]]
 file = "mods/create-escalated.pw.toml"
 hash = "040e5ed9eafedf380f2dcf058efd2cc2a15d5cdfe29a49b7ef41b21c6d935f75"
 metafile = true
@@ -192,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -202,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/dap-ur-homies.pw.toml"
-hash = "19ff928a1c92265070c2795f21f5d6ee91c8a25beb9e9fe220cee5479317ba5d"
+hash = "c82096b443ddc691eda44822604791653771b7c7da12eaac14fd9ba6bf96d647"
 metafile = true
 
 [[files]]
@@ -223,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "a0b3083a1577130adb77867a6f8b6cf0c5bdd3c0c8b2995fa8b5fca323ed09a0"
 metafile = true
 
 [[files]]
@@ -338,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "56a7c2e0893f18bcb34206b85a90b1be84267e5783f53f602320ad40b36e201d"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "724daaea2150eeb1baf560e2a88afccd01c5a49cc3e36d114219ad62f55c7ca2"
 metafile = true
 
 [[files]]
