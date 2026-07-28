@@ -1,0 +1,13 @@
+name = "AnvilCore 🔨 [DISCONTINUED]"
+filename = "anvilcore-3.0 Release-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YEL7ZWyy/versions/9tQx9Ack/anvilcore-3.0%20Release-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "a70523c97cbc48626d6dd750beaad0d85f64a54f6d9440345e080585b0565cc1f25ebe585dbb17569d40f255b831ba244d3700fe940fea46d80e2de520734094"
+
+[update]
+[update.modrinth]
+mod-id = "YEL7ZWyy"
+version = "9tQx9Ack"
