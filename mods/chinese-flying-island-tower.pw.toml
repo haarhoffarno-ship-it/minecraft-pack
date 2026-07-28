@@ -3,11 +3,11 @@ filename = "chineseflyingislandtower-1.1.0-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "59f3ec20db9e1319bd84b89eeb605b10c70b1a1c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NVz9DXUE/versions/jM8I7XB1/chineseflyingislandtower-1.1.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "c9d1456c31b75e90a5c419c265311038d7fb2e249cb9f3f46d446abd75c66299a1a675b2088f820dd437fd98ac58a1cb43c5e837033060e8547e8f9b28d05577"
 
 [update]
-[update.curseforge]
-file-id = 5749988
-project-id = 1042026
+[update.modrinth]
+mod-id = "NVz9DXUE"
+version = "jM8I7XB1"
