@@ -1,0 +1,13 @@
+name = "Plasmo Voice Walkie-Talkie"
+filename = "pv-addon-walkietalkie-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KbXmELYr/versions/1AUdLgN2/pv-addon-walkietalkie-1.0.4.jar"
+hash-format = "sha512"
+hash = "7a14244620f4d5ac37bad06c6f6b9c08d51d08110921103b66a8b6bc80c5ce65d45acf5da73ec78b9ab2cb90eaccf402ffc924c54d09693bf223206dd567d631"
+
+[update]
+[update.modrinth]
+mod-id = "KbXmELYr"
+version = "1AUdLgN2"

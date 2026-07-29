@@ -396,6 +396,11 @@ hash = "56a7c2e0893f18bcb34206b85a90b1be84267e5783f53f602320ad40b36e201d"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "981284d219e27eed15834e024885e89e445c15aa3b07158080438b9f82dce8b6"
+metafile = true
+
+[[files]]
 file = "mods/player-animation-library.pw.toml"
 hash = "724daaea2150eeb1baf560e2a88afccd01c5a49cc3e36d114219ad62f55c7ca2"
 metafile = true
@@ -413,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/protomanlys-weather.pw.toml"
 hash = "5074c1853c6fc522e39014be88c3badaf4e2ad975030f70118bcf8adefd71eb2"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-walkietalkie.pw.toml"
+hash = "ab8a74214b5b81ca6b19347cccbe1d156fba7149f01d81b1e031641721a3339f"
 metafile = true
 
 [[files]]
@@ -438,11 +448,6 @@ metafile = true
 [[files]]
 file = "mods/shellbound-for-airship.pw.toml"
 hash = "45bfd1ceaa0195b43216b65494d5ce7d19a945663836d3a21c8ea04974533dde"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "cca4b10598ae8cedcc2a6531a422453d624ceb4d1de1163ce46255415ccda045"
 metafile = true
 
 [[files]]
