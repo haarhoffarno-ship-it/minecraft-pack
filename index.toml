@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/starterstructure.json5"
+hash = "e4118770f91de291d155c9639d526902075a84d73ce6c64905065b1093398542"
+
+[[files]]
+file = "config/starterstructure/schematics/starter_14.nbt"
+hash = "a6ff092c5fe575da7c81b6991123040fb32d9c85cfcb441393085812b8819fdc"
+
+[[files]]
 file = "mods/aeronautics-calibrated.pw.toml"
 hash = "69a635e5a98377526c153a40ef32c26a3c002bb892379970c2acbfc1fe852beb"
 metafile = true
@@ -48,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/chinese-flying-island-tower.pw.toml"
 hash = "738b276b449cce07a9150b7d8a75219743bd76dfd00403fa21ecbb5c4d6dc048"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
 metafile = true
 
 [[files]]
@@ -483,6 +496,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "4063a3c0f2f9a6544a870f0b90679441d7333652875dafbe3db255fc67f72c82"
+metafile = true
+
+[[files]]
+file = "mods/starter-structure.pw.toml"
+hash = "def6b9792cf3c1de9f77417f8efa0bbfad200ce4a58a7497fe2cfae5c9e12d44"
 metafile = true
 
 [[files]]
