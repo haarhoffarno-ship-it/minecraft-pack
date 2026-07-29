@@ -664,6 +664,11 @@ hash = "4063a3c0f2f9a6544a870f0b90679441d7333652875dafbe3db255fc67f72c82"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
 file = "mods/starter-structure.pw.toml"
 hash = "def6b9792cf3c1de9f77417f8efa0bbfad200ce4a58a7497fe2cfae5c9e12d44"
 metafile = true
