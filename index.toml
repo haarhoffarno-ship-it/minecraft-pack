@@ -271,6 +271,11 @@ hash = "65eb223f51e0696ab727083c8ea142fe1f72e954e983123b45d500922c79387d"
 metafile = true
 
 [[files]]
+file = "mods/glaidens-audio.pw.toml"
+hash = "6f6b2f23795bc07058cc5d7d60238dd6638080748bd5a2de42b7b21c1c769b77"
+metafile = true
+
+[[files]]
 file = "mods/hypertubes.pw.toml"
 hash = "ac3048de2c76da8d99d34c918540fd6db4f44245725e8a349a9a963671f2eea6"
 metafile = true
@@ -433,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/shellbound-for-airship.pw.toml"
 hash = "45bfd1ceaa0195b43216b65494d5ce7d19a945663836d3a21c8ea04974533dde"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat-radios.pw.toml"
+hash = "eea22d5d0030e9033df298da8dd89332ff559ae4885f8d8c3cbd73ee053b2513"
 metafile = true
 
 [[files]]
