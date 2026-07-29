@@ -16,11 +16,6 @@ hash = "07735cfeaea8f9d4532a6ca653fa3b4fc83ed2d7f16fff96ac2741a8c37f12a8"
 metafile = true
 
 [[files]]
-file = "mods/analog.pw.toml"
-hash = "a7f0850f3ae1c6e6f75126f67438af21d853a86b8b8d6c146cb61d47c6e824cf"
-metafile = true
-
-[[files]]
 file = "mods/anvilcore-.pw.toml"
 hash = "086d8e2632e3e7da69b4fc4af3de6e86b499015445e7a258e922ae21d667a139"
 metafile = true
