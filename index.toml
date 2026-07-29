@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/starterstructure.json5"
-hash = "e4118770f91de291d155c9639d526902075a84d73ce6c64905065b1093398542"
+hash = "b805eafe72caef9fa48f0168e3dea9569541fcaf448d1585d600561fceea0bde"
 
 [[files]]
 file = "config/starterstructure/schematics/starter_14.nbt"
