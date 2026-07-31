@@ -22,7 +22,7 @@ hash = "e0577b528f3a48bb17aeb8dce964ac433af8fcf8e03901564ee0e3909aca17e9"
 
 [[files]]
 file = "config/cristellib/mr_aetherial_islands/structure_toggle_config.json5"
-hash = "f24430a0bbfc954980c66ef9a63e0042ecf31747ad0c40045a2d83f67e12b8b7"
+hash = "187cedc25795c9d9609e804aa3afddcd3326ecccd1e829661118afba6755eb87"
 
 [[files]]
 file = "config/cristellib/mss/structure_placement_config.json5"
