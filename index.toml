@@ -91,11 +91,6 @@ hash = "69a635e5a98377526c153a40ef32c26a3c002bb892379970c2acbfc1fe852beb"
 metafile = true
 
 [[files]]
-file = "mods/aeronautics-winds-and-weather.pw.toml"
-hash = "9172958670e378bb4f9693b21a5ec2807f229a5ff9c9ba58d667ce0f6e4da5a7"
-metafile = true
-
-[[files]]
 file = "mods/aetherial-islands.pw.toml"
 hash = "07735cfeaea8f9d4532a6ca653fa3b4fc83ed2d7f16fff96ac2741a8c37f12a8"
 metafile = true
@@ -653,11 +648,6 @@ metafile = true
 [[files]]
 file = "mods/ponder.pw.toml"
 hash = "763ca3a7d927dfd1ece4d8cc2aedce1acf29614cf7d58b77234f8c748d5f7802"
-metafile = true
-
-[[files]]
-file = "mods/protomanlys-weather.pw.toml"
-hash = "5074c1853c6fc522e39014be88c3badaf4e2ad975030f70118bcf8adefd71eb2"
 metafile = true
 
 [[files]]
