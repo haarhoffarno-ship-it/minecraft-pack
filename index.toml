@@ -631,6 +631,11 @@ hash = "56a7c2e0893f18bcb34206b85a90b1be84267e5783f53f602320ad40b36e201d"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "35eb811691528589fff1c3455077b671783938049f1b52894bca2ac65c233c8f"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "981284d219e27eed15834e024885e89e445c15aa3b07158080438b9f82dce8b6"
 metafile = true
