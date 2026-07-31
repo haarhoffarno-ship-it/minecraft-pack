@@ -81,6 +81,11 @@ file = "config/starterstructure/schematics/starter_14.nbt"
 hash = "a6ff092c5fe575da7c81b6991123040fb32d9c85cfcb441393085812b8819fdc"
 
 [[files]]
+file = "mods/acedium-sodiumized.pw.toml"
+hash = "9caca1dcd9aed66875a350be1d24c3a1b9c04244a52c60a7bb8ffec65783c54c"
+metafile = true
+
+[[files]]
 file = "mods/aeronautics-calibrated.pw.toml"
 hash = "69a635e5a98377526c153a40ef32c26a3c002bb892379970c2acbfc1fe852beb"
 metafile = true
@@ -631,11 +636,6 @@ hash = "56a7c2e0893f18bcb34206b85a90b1be84267e5783f53f602320ad40b36e201d"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "35eb811691528589fff1c3455077b671783938049f1b52894bca2ac65c233c8f"
-metafile = true
-
-[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "981284d219e27eed15834e024885e89e445c15aa3b07158080438b9f82dce8b6"
 metafile = true
@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "3d615c32683131c6a98a7da16c28263c5ca5cf50e4f33029e8c72c3558bb362c"
+hash = "9cff55b64b62831e1be78c469b6758829f9d15016c6b12ea2d5103c3263f510e"
 metafile = true
 
 [[files]]
