@@ -74,11 +74,6 @@ hash = "a85080c785e75b0bcddae3e14d7644d57e8eee0cf7ce4b670ee9e2bd2db6b886"
 metafile = true
 
 [[files]]
-file = "mods/chinese-flying-island-tower.pw.toml"
-hash = "738b276b449cce07a9150b7d8a75219743bd76dfd00403fa21ecbb5c4d6dc048"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
@@ -364,11 +359,6 @@ hash = "483f948548eaa4148beadb2fe4f96e34918cecd1360ab449f1edab6f3177f550"
 metafile = true
 
 [[files]]
-file = "mods/georges-flying-island.pw.toml"
-hash = "65eb223f51e0696ab727083c8ea142fe1f72e954e983123b45d500922c79387d"
-metafile = true
-
-[[files]]
 file = "mods/glaidens-audio.pw.toml"
 hash = "6f6b2f23795bc07058cc5d7d60238dd6638080748bd5a2de42b7b21c1c769b77"
 metafile = true
@@ -519,16 +509,6 @@ hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
 metafile = true
 
 [[files]]
-file = "mods/moogs-structure-lib.pw.toml"
-hash = "7827f48353ece869368dc9b9e5e5f3111d1dc38d166f376fbb176bba96d9e421"
-metafile = true
-
-[[files]]
-file = "mods/moogs-voyager-structures.pw.toml"
-hash = "29c06b3e0967fc14ae933578876dbb94132f98c89e46449c9f33edf60bb3c762"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
@@ -536,11 +516,6 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "0e0be66913cdb3c1df311684e6b40ca0e8aaacb4b3c58b4b219036a959569c55"
-metafile = true
-
-[[files]]
-file = "mods/mss-moogs-soaring-structures.pw.toml"
-hash = "45a1b71094606e09e160e39671582b00056790d79015b6d5bd047d2b3d0dc9a7"
 metafile = true
 
 [[files]]
@@ -621,26 +596,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "0e806e9224ec274d133d2bcd9e32e7156b63967c1e9bf304dab48be98158da15"
-metafile = true
-
-[[files]]
-file = "mods/shellbound-for-airship.pw.toml"
-hash = "45bfd1ceaa0195b43216b65494d5ce7d19a945663836d3a21c8ea04974533dde"
-metafile = true
-
-[[files]]
-file = "mods/sky-tiger-air-balloon.pw.toml"
-hash = "525e3ce5c6fca92009e7b8b4ac065c4fc5469301e1c7c708f0297d66fe194d44"
-metafile = true
-
-[[files]]
-file = "mods/sky-villages-forge.pw.toml"
-hash = "49293cb0b33f4acd9b12a1ea953532821d001040f5f5010a4de7b5c461d1214c"
-metafile = true
-
-[[files]]
-file = "mods/sky-whale-ship.pw.toml"
-hash = "ad9d8d873b1bbf46bc88bb2489edd961285f08f213213428f219c15ebaa24c09"
 metafile = true
 
 [[files]]
